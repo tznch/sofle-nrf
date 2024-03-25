@@ -13,7 +13,8 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: sofle_left
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: sofle_right
+  shield: settings_reset
