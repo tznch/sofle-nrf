@@ -17,4 +17,3 @@ include:
     shield: sofle_left
   - board: nrfmicro_13
     shield: sofle_right
-  shield: settings_reset
